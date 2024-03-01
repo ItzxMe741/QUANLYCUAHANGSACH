@@ -1,0 +1,68 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <!--<title>Registration Form in HTML CSS</title>-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css" rel="stylesheet" />
+    <link href="https://raw.githubusercontent.com/sa-si-dev/virtual-select/master/dist/virtual-select.min.css" rel="stylesheet" />
+    <link href="https://raw.githubusercontent.com/sa-si-dev/tooltip/master/dist/tooltip.min.css" rel="stylesheet" />
+    
+    <!---Custom CSS File--->
+    <link rel="stylesheet" href="~/css/createform.css" />
+</head>
+
+
+
+<body>
+    <script>
+        var object = { stat: false, ele: null };
+        function ConfirmDelete(ev) {
+            if (object.stat) { return true; };
+            swal({
+                title: "Save changes",
+                text: "Are you sure you want to save your change?",
+                showCancelButton: true,
+                cancelButtonColor: "#DD6B55",
+                confirmButtonColor: "#DD6B55",
+                confirmButtonText: "Confirm",
+                closeOnConfirm: true
+            },
+                function () {
+                    //swal("Deleted!", "Your imaginary file has been deleted.", "success");
+                    object.stat = true;
+                    object.ele = ev;
+                    object.ele.click();
+                });
+            return false;
+        };
+    </script>
+
+    @if (@TempData["AlertMessage"] != null)
+    {
+        <script>
+            swal({
+                title: 'Warning',
+                text: '@TempData["AlertMessage"]',
+                showCloseButton: true,
+                confirmButtonText: 'Close'
+            });
+        </script>
+    }
+    <section class="container">
+       @RenderBody()
+    </section>
+
+</body>
+<script src="https://raw.githubusercontent.com/sa-si-dev/virtual-select/master/dist/virtual-select.min.js"></script>
+<script src="https://raw.githubusercontent.com/sa-si-dev/tooltip/master/dist/tooltip.min.js"></script>
+</html>
+
+

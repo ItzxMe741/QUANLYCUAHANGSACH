@@ -1,0 +1,63 @@
+﻿@model QuanLyCuaHangSach.Models.Chitietnhap
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/create_form.cshtml";
+    Phieudathangmua pdhm = TempData["phieudathangmua"] as Phieudathangmua;
+}
+
+
+<header><h2>Sửa Chi Tiết Nhập</h2></header>
+        <form asp-action="Edit" class="form">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Idctn" />
+            <div class="input-box">
+                <label class="control-label">Tên sách</label>
+                <div class="select-box">
+                     <select asp-for="Sachidsach" class ="form-control" asp-items="ViewBag.Sachidsach"></select>
+                </div>
+            </div>
+            <div class="input-box">
+                <label class="control-label">Số lượng đặt</label>
+                <input asp-for="Sldat" class="form-control" />
+                <span asp-validation-for="Sldat" class="text-danger"></span>
+            </div>
+       
+            <input asp-for="Slgiao" class="form-control" type="hidden"/>
+
+            <div class="input-box">
+                <label class="control-label">Đơn giá nhập</label>
+                <input asp-for="Dongianhap" class="form-control" oninput="formatCurrency(this)"/>
+                <span asp-validation-for="Dongianhap" class="text-danger"></span>
+            </div>
+            
+             <script>
+                function formatCurrency(input) {
+                    var value = input.value.replace(/\D/g, '');
+                    var formatter = new Intl.NumberFormat('en-US');
+
+                    // Kiểm tra giá trị nhập vào
+                    if (value < 0) {
+                        // Xử lý lỗi tại đây, ví dụ: hiển thị thông báo lỗi
+                        alert("Giá nhập không hợp lệ. Vui lòng nhập lại!");
+                        input.value = ""; // Xóa giá trị nhập vào
+                    } else {
+                        input.value = formatter.format(value);
+                    }
+                }
+            </script>
+
+            <select asp-for="Phieudathangmuaidpdhm" class="form-control" asp-items="ViewBag.Phieudathangmuaidpdhm" hidden></select>
+
+            <div>
+                <input type="submit" value="Cập nhật" class="btns" onclick="return ConfirmDelete(this);"/>
+            </div>
+            <hr />
+            <div class="btns" style="padding-top:15px">
+                <center>
+                    <a style="color:white; text-decoration:none;" href="@Url.Action("Index", "Chitietnhaps", new { Idpdhm = pdhm.Idpdhm })">Quay về</a>
+                </center>
+            </div>
+        </form>
+
+

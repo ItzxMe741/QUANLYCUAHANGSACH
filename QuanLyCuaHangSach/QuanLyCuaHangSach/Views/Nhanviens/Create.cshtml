@@ -1,0 +1,61 @@
+﻿@model QuanLyCuaHangSach.Models.Nhanvien
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/create_form.cshtml";
+}
+
+<header><h2>Thêm Nhân Viên</h2></header>
+
+        <form asp-action="Create" class="form" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="input-box">
+                <label class="control-label">Mã nhân viên</label>
+                <input asp-for="Manhanvien" class="form-control" />
+                <span asp-validation-for="Manhanvien" class="text-danger"></span>
+            </div>
+            <div class="input-box">
+                <label class="control-label">Tên nhân viên</label>
+                <input asp-for="Tennhanvien" class="form-control" />
+                <span asp-validation-for="Tennhanvien" class="text-danger"></span>
+            </div>
+            <div class="input-box">
+                <label class="control-label">Số điện thoại</label>
+                <input asp-for="Sdt" class="form-control" />
+                <span asp-validation-for="Sdt" class="text-danger"></span>
+            </div>
+            <div class="input-box">
+                <label class="control-label">Email</label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="input-box">
+                <label class="control-label">Ngày sinh</label>
+                <input asp-for="Ngaysinh" class="form-control" type="date" required/>
+                <span asp-validation-for="Ngaysinh" class="text-danger"></span>
+            </div>
+            <div>
+                <label>Hình ảnh</label>
+                <div class="custom-file">
+                    <input title="Upload a employee image" asp-for="FrontImage" class="custom-file-input" 
+                    onchange="document.getElementById('FrontImagePrv').src= window.URL.createObjectURL(this.files[0])">
+                     <label class="custom-file-label" for="FrontImagePrv"></label>
+                </div>
+                <span asp-validation-for="FrontImage" class="text-danger"></span>
+                <img id="FrontImagePrv" src="~/img/noimage.jpg" alt="Image" width="150"
+                height="150" style="border:1px; margin-top:20px; margin-left:120px; border-radius:50%; object-fit:cover"/>
+            </div>
+
+            <div class="input-box">
+                <label class="control-label">Password</label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Lưu" class="btns" />
+            </div>
+            <div class="btns" style="padding-top:15px">
+                <center><a asp-action="Index" style="color:white; text-decoration:none;">Quay về</a></center>
+            </div>
+        </form>
+

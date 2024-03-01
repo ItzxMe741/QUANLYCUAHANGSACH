@@ -1,0 +1,135 @@
+﻿
+:root {
+    --white: #fff;
+    --black: #24292d;
+    --nav-main: #5f9ea0;
+    --switchers-main: #0b3cc1;
+    --light-bg: #ddd;
+}
+
+body {
+    background: var(--light-bg);
+}
+
+.home-content {
+    height: 100vh;
+    width: 100%;
+    background: var(--light-bg);
+/*    display: flex;*/
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 50px;
+}
+
+.home-content h2 {
+    color: var(--black);
+    font-size: 45px;
+}
+
+.home-content h3 {
+    color: var(--black);
+    font-size: 42px;
+    margin-top: -8px;
+}
+
+.home-content h3 span {
+    color: var(--nav-main);
+}
+
+.home-content h3 span.darkMode {
+    color: var(--black);
+}
+
+.home-content p {
+    color: var(--black);
+    font-size: 16px;
+    width: 45%;
+    text-align: justify;
+    margin: 4px 0 30px 0;
+}
+
+.home-content a {
+    color: #fff;
+    font-size: 20px;
+    padding: 12px 24px;
+    border-radius: 6px;
+    text-decoration: none;
+    background: var(--nav-main);
+ }
+
+ .home-content a i {
+    transform: rotate(45deg);
+    font-size: 16px;
+ }
+
+.home-content a:hover {
+    background: var(--switchers-main);
+}
+
+.about-us {
+    height: 100vh;
+    width: 100%;
+    padding: 90px 0;
+    background: #ddd;
+}
+
+.pic {
+    height: auto;
+    width: 325px;
+}
+
+.about {
+    width: 1130px;
+    max-width: 85%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.text {
+    width: 540px;
+}
+
+    .text h2 {
+        font-size: 60px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+
+    .text h5 {
+        font-size: 22px;
+        font-weight: 500;
+        margin-bottom: 20px;
+    }
+
+span {
+    color: #5f9ea0;
+}
+
+.text p {
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 1px;
+}
+
+.data {
+    margin-top: 30px;
+}
+
+.hire {
+    font-size: 18px;
+    background: #5f9ea0;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    padding: 8px 25px;
+    border-radius: 6px;
+    transition: 0.5s;
+}
+
+    .hire:hover {
+        background: #fff;
+        color: #5f9ea0;
+        border: 1px solid #5f9ea0;
+    }

@@ -1,0 +1,199 @@
+﻿@model IEnumerable<QuanLyCuaHangSach.Models.Donvivanchuyen>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = null;
+    QLCHSContext context = new QLCHSContext();
+    Nhanvien nv = context.Nhanviens.Find(Int32.Parse(User.Identity.Name));
+    Khachhang kh = context.Khachhangs.Find(Int32.Parse(User.Identity.Name));
+    Donvivanchuyen dvvc = context.Donvivanchuyens.Find(Int32.Parse(User.Identity.Name));
+    Nhacungcap ncc = context.Nhacungcaps.Find(Int32.Parse(User.Identity.Name));
+
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUẢN LÝ</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <!--sweetalert-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css" rel="stylesheet" />
+    <!--sweetalert.end-->
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    @*<script src="~/js/xoa.js"></script>*@
+    <link rel="stylesheet" href="~/css/stylegd.css" />
+    <link rel="stylesheet" href="~/css/home.css" />
+
+
+</head>
+
+<body>
+
+    <div class="menu-bar">
+        <h1 class="logo"><img src="~/img/icon.png" width="150px" style="margin-top:10px; margin-left:100px;" /></h1>
+        <ul>
+            @*<li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>*@
+            <li>
+                <a href="#">Danh mục<i class="fas fa-caret-down iconbar"></i></a>
+                <div class="dropdown-menu">
+                    <ul>
+                        <li>
+                            <a href="#">Chi tiết sách<i class="fas fa-caret-right iconbar"></i></a>
+
+                            <div class="dropdown-menu-1">
+                                <ul>
+                                    <li><a href="@Url.Action("Index","Tacgias")">Tác giả</a></li>
+                                    <li><a href="@Url.Action("Index","Loaisaches")">Loại sách</a></li>
+                                    <li><a href="@Url.Action("Index","Nhaxuatbans")">Nhà xuất bản</a></li>
+                                    <li><a href="@Url.Action("Index","Ngonngus")">Ngôn ngữ</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li><a href="@Url.Action("Index","Saches")">Sách</a></li>
+                        <li><a href="@Url.Action("Index","Nganhangs")">Ngân hàng</a></li>
+                        <li>
+                            <a href="#">Đối tác<i class="fas fa-caret-right iconbar"></i></a>
+
+                            <div class="dropdown-menu-1">
+                                <ul>
+                                    <li><a href="@Url.Action("Index","Nhacungcaps")">Nhà cung cấp</a></li>
+                                    <li><a href="@Url.Action("Index","Donvivanchuyens")">Đơn vị vận chuyển</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="#">Người dùng<i class="fas fa-caret-right iconbar"></i></a>
+
+                            <div class="dropdown-menu-1">
+                                <ul>
+                                    <li><a href="@Url.Action("Index","Nhanviens")">Nhân viên</a></li>
+                                    <li><a href="@Url.Action("Index","Khachhangs")">Khách hàng</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li><a href="@Url.Action("Index","Httts")">Hình thức thanh toán</a></li>
+                        <li><a href="@Url.Action("Index","Trangthais")">Trạng thái</a></li>
+                    </ul>
+                </div>
+            </li>
+
+            <li>
+                <a href="#">Quản lý<i class="fas fa-caret-down iconbar"></i></a>
+                <div class="dropdown-menu">
+                    <ul>
+                        <li>
+                            <a href="#">Đặt hàng mua<i class="fas fa-caret-right iconbar"></i></a>
+
+                            <div class="dropdown-menu-1">
+                                <ul>
+                                    <li><a href="@Url.Action("Index","Phieudathangmuas")">Phiếu đặt hàng mua</a></li>
+                                    <li><a href="@Url.Action("Index","Phieuthanhtoantienmuas")">Phiếu thanh toán</a></li>
+                                </ul>
+                            </div>
+                        </li>
+
+                        <li>
+                            <a href="#">Đặt hàng bán<i class="fas fa-caret-right iconbar"></i></a>
+
+                            <div class="dropdown-menu-1">
+                                <ul>
+                                    <li><a href="@Url.Action("Index","Phieudathangbans")">Phiếu đặt hàng bán</a></li>
+                                    <li><a href="@Url.Action("Index","Phieuthutienbans")">Phiếu thu tiền</a></li>
+                                </ul>
+                            </div>
+                        </li>
+
+                        <li><a href="@Url.Action("Indexxacnhan","Phieudathangmuas")">Xác nhận đặt hàng</a></li>
+
+                    </ul>
+                </div>
+            </li>
+
+            <li><a href="@Url.Action("Indexbaocao","Chitietnhaps")">Báo Cáo</a></li>
+            @if (nv == null)
+            {
+                <li><a href="/login">Đăng nhập</a></li>
+
+            }
+            else
+            {
+                <li><a href="/Login/Logout">Đăng xuất</a></li>
+            }
+        </ul>
+    </div>
+
+    <div>
+        <a></a>
+        <p style="font-size: 22px;" class="timejs" id="clock"></p>
+    </div>
+     
+    
+    <section class="about-us">
+        <div class="about">
+            <img src="~/img/aboutimg.jpg" class="pic" />
+            <div class="text">
+                <h2>AntWake Management</h2>
+                <h5>Quản lý & <span>Báo cáo</span></h5>
+                <p>Webapp sẽ cho phép doanh nghiệp quản lý và tìm kiếm thông tin sách, quản lý đơn đặt hàng và xuất hàng, cũng như là dễ dàng hơn trong việc quản lý thông tin sách có trong cửa hàng mình.</p>
+                <div class="data">
+                    <a href="#" class="hire">Xem thêm</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+ @*   <section class="home-content">
+        <div class="texts">
+            <h2 class="text">ANTWAKE MANAGEMENT </h2>
+            <h3 class="text">With a <span>AntWake...</span></h3>
+            <p>Web Quản Lý Sách.</p>
+            <div class="button">
+                <a href="#">
+                    Quản Lý Sách
+                    <i class="fas fa-location-arrow"></i>
+                </a>
+            </div>
+           </div>
+    </section>*@
+
+    @if (@TempData["AlertMessage1"] != null)
+    {
+        <script>
+            swal({
+                type: 'success',
+                title: 'Success!',
+                text: '@TempData["AlertMessage1"]',
+                showCloseButton: true,
+                confirmButtonText: 'Close'
+            });
+        </script>
+    }
+
+    @if (@TempData["AlertMessagetk"] != null)
+    {
+        <script>
+            swal({
+                type: 'warning',
+                title: 'Not Found',
+                text: '@TempData["AlertMessagetk"]',
+                showCloseButton: true,
+                confirmButtonText: 'Close'
+            });
+        </script>
+    }
+</body>
+</html>
+
+@*<p>
+    <a asp-action="Create">Create New</a>
+</p>*@
+

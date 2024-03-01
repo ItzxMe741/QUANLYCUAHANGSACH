@@ -1,0 +1,508 @@
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.exe
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.deps.json
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.runtimeconfig.json
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.runtimeconfig.dev.json
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.pdb
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.Views.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.Views.pdb
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.csproj.AssemblyReference.cache
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.AssemblyInfoInputs.cache
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.AssemblyInfo.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.csproj.CoreCompileInputs.cache
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.MvcApplicationPartsAssemblyInfo.cache
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.RazorAssemblyInfo.cache
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.RazorAssemblyInfo.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\staticwebassets\QuanLyCuaHangSach.StaticWebAssets.Manifest.cache
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.TagHelpers.input.cache
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.TagHelpers.output.cache
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.RazorCoreGenerate.cache
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietnhaps\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietnhaps\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietnhaps\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietnhaps\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietnhaps\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietxuats\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietxuats\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietxuats\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietxuats\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietxuats\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Donvivanchuyens\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Donvivanchuyens\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Donvivanchuyens\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Donvivanchuyens\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Donvivanchuyens\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Httts\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Httts\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Httts\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Httts\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Httts\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Khachhangs\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Khachhangs\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Khachhangs\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Khachhangs\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Khachhangs\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Loaisaches\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Loaisaches\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Loaisaches\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Loaisaches\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nganhangs\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nganhangs\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nganhangs\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nganhangs\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nganhangs\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Ngonngus\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Ngonngus\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Ngonngus\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Ngonngus\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhacungcaps\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhacungcaps\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhacungcaps\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhacungcaps\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhacungcaps\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhanviens\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhanviens\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhanviens\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhanviens\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhanviens\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhaxuatbans\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhaxuatbans\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhaxuatbans\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhaxuatbans\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhaxuatbans\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthanhtoans\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthanhtoans\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthanhtoans\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthanhtoans\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthanhtoans\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthutiens\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthutiens\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthutiens\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthutiens\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthutiens\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangbans\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangbans\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangbans\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangbans\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangbans\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangmuas\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangmuas\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangmuas\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangmuas\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangmuas\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthanhtoantienmuas\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthanhtoantienmuas\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthanhtoantienmuas\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthanhtoantienmuas\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthanhtoantienmuas\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthutienbans\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthutienbans\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthutienbans\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthutienbans\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthutienbans\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Saches\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Saches\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Saches\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Saches\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Saches\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\create_form.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_order_form.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Tacgias\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Tacgias\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Tacgias\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Tacgias\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Tacgias\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Trangthais\Create.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Trangthais\Delete.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Trangthais\Details.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Trangthais\Edit.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Trangthais\Index.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.RazorTargetAssemblyInfo.cache
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.RazorTargetAssemblyInfo.cs
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.Views.pdb
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.csproj.CopyComplete
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.dll
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.pdb
+D:\HKII-Năm 4\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.genruntimeconfig.cache
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\appsettings.json
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.exe
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.deps.json
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.runtimeconfig.json
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.runtimeconfig.dev.json
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.pdb
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.Views.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\QuanLyCuaHangSach.Views.pdb
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Irony.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\XLParser.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.csproj.AssemblyReference.cache
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.AssemblyInfoInputs.cache
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.AssemblyInfo.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.csproj.CoreCompileInputs.cache
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.MvcApplicationPartsAssemblyInfo.cache
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.RazorAssemblyInfo.cache
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.RazorAssemblyInfo.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\staticwebassets\QuanLyCuaHangSach.StaticWebAssets.Manifest.cache
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.TagHelpers.input.cache
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.TagHelpers.output.cache
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.RazorCoreGenerate.cache
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietnhaps\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietnhaps\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietnhaps\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietnhaps\Editslgiao.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietnhaps\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietnhaps\Indexbaocao.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietnhaps\Indexxacnhan.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietnhaps\Indexxem.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietnhaps\Indexxem1.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietxuats\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietxuats\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietxuats\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietxuats\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietxuats\Indexbaocao.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Chitietxuats\Indexxem.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Donvivanchuyens\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Donvivanchuyens\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Donvivanchuyens\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Donvivanchuyens\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Home\Indexkh.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Httts\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Httts\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Httts\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Httts\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Khachhangs\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Khachhangs\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Khachhangs\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Khachhangs\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Loaisaches\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Loaisaches\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Loaisaches\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nganhangs\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nganhangs\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nganhangs\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nganhangs\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Ngonngus\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Ngonngus\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Ngonngus\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhacungcaps\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhacungcaps\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhacungcaps\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhacungcaps\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhanviens\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhanviens\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhanviens\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhanviens\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhaxuatbans\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhaxuatbans\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Nhaxuatbans\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthanhtoans\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthanhtoans\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthanhtoans\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthanhtoans\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthanhtoans\Indexbaocao.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthutiens\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthutiens\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthutiens\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Noidungthutiens\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangbans\Capnhattrangthaidvvc.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangbans\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangbans\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangbans\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangbans\Editttdvvc.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangbans\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangmuas\Capnhattrangthai.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangmuas\Capnhattrangthaidvvc.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangmuas\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangmuas\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangmuas\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangmuas\Edittt.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangmuas\Editttdvvc.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangmuas\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieudathangmuas\Indexxacnhan.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthanhtoantienmuas\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthanhtoantienmuas\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthanhtoantienmuas\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthanhtoantienmuas\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthutienbans\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthutienbans\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthutienbans\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Phieuthutienbans\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Saches\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Saches\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Saches\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Saches\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\create_form.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_order_form.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Tacgias\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Tacgias\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Tacgias\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Tacgias\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Trangthais\Create.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Trangthais\Details.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Trangthais\Edit.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\Trangthais\Index.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.RazorTargetAssemblyInfo.cache
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.RazorTargetAssemblyInfo.cs
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.Views.pdb
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.csproj.CopyComplete
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.dll
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.pdb
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\QuanLyCuaHangSach.genruntimeconfig.cache
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\staticwebassets\QuanLyCuaHangSach.StaticWebAssets.Pack.cache
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.QuanLyCuaHangSach.Microsoft.AspNetCore.StaticWebAssets.props
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.QuanLyCuaHangSach.props
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.QuanLyCuaHangSach.props
+D:\QuanLyCuaHangSach\QuanLyCuaHangSach\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.QuanLyCuaHangSach.props

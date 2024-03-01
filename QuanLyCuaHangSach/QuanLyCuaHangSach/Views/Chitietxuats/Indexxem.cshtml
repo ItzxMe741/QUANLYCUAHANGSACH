@@ -1,0 +1,293 @@
+﻿@model IEnumerable<QuanLyCuaHangSach.Models.Chitietxuat>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = null;
+    Phieudathangban pdhb = TempData["phieudathangban"] as Phieudathangban;
+    QLCHSContext context = new QLCHSContext();
+    Donvivanchuyen dvvc = context.Donvivanchuyens.Find(Int32.Parse(User.Identity.Name));
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUẢN LÝ</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <!--sweetalert-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css" rel="stylesheet" />
+    <!--sweetalert.end-->
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    @*<script src="~/js/xoa.js"></script>*@
+    <link rel="stylesheet" href="~/css/stylegd.css" />
+
+</head>
+
+<script>
+    var object = { stat: false, ele: null };
+    function ConfirmDelete(ev) {
+        if (object.stat) { return true; };
+        swal({
+            title: "Are you sure?",
+            text: "Are you want to delete this item!",
+            type: "warning",
+            showCancelButton: true,
+            cancelButtonColor: "#DD6B55",
+            confirmButtonColor: "#DD6B55",
+            confirmButtonText: "Confirm",
+            closeOnConfirm: true
+        },
+            function () {
+                //swal("Deleted!", "Your imaginary file has been deleted.", "success");
+                object.stat = true;
+                object.ele = ev;
+                object.ele.click();
+            });
+        return false;
+    };
+</script>
+
+<body>
+
+    @if (@TempData["AlertMessage1"] != null)
+    {
+        <script>
+            swal({
+                type: 'success',
+                title: 'Success!',
+                text: '@TempData["AlertMessage1"]',
+                showCloseButton: true,
+                confirmButtonText: 'Close'
+            });
+        </script>
+    }
+
+    @if (@TempData["AlertMessagetk"] != null)
+    {
+        <script>
+            swal({
+                type: 'warning',
+                title: 'Not Found',
+                text: '@TempData["AlertMessagetk"]',
+                showCloseButton: true,
+                confirmButtonText: 'Close'
+            });
+        </script>
+    }
+
+    <div class="menu-bar">
+        <h1 class="logo"><img src="~/img/icon.png" width="150px" style="margin-top:10px; margin-left:100px;" /></h1>
+        <ul>
+            @*<li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>*@
+            <li>
+                <a href="#">Danh mục<i class="fas fa-caret-down iconbar"></i></a>
+                <div class="dropdown-menu">
+                    <ul>
+                        <li>
+                            <a href="#">Chi tiết sách<i class="fas fa-caret-right iconbar"></i></a>
+
+                            <div class="dropdown-menu-1">
+                                <ul>
+                                    <li><a href="@Url.Action("Index","Tacgias")">Tác giả</a></li>
+                                    <li><a href="@Url.Action("Index","Loaisaches")">Loại sách</a></li>
+                                    <li><a href="@Url.Action("Index","Nhaxuatbans")">Nhà xuất bản</a></li>
+                                    <li><a href="@Url.Action("Index","Ngonngus")">Ngôn ngữ</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li><a href="@Url.Action("Index","Saches")">Sách</a></li>
+                        <li><a href="@Url.Action("Index","Nganhangs")">Ngân hàng</a></li>
+                        <li>
+                            <a href="#">Đối tác<i class="fas fa-caret-right iconbar"></i></a>
+
+                            <div class="dropdown-menu-1">
+                                <ul>
+                                    <li><a href="@Url.Action("Index","Nhacungcaps")">Nhà cung cấp</a></li>
+                                    <li><a href="@Url.Action("Index","Donvivanchuyens")">Đơn vị vận chuyển</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="#">Người dùng<i class="fas fa-caret-right iconbar"></i></a>
+
+                            <div class="dropdown-menu-1">
+                                <ul>
+                                    <li><a href="@Url.Action("Index","Nhanviens")">Nhân viên</a></li>
+                                    <li><a href="@Url.Action("Index","Khachhangs")">Khách hàng</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li><a href="@Url.Action("Index","Httts")">Hình thức thanh toán</a></li>
+                        <li><a href="@Url.Action("Index","Trangthais")">Trạng thái</a></li>
+                    </ul>
+                </div>
+            </li>
+
+            <li>
+                <a href="#">Quản lý<i class="fas fa-caret-down iconbar"></i></a>
+                <div class="dropdown-menu">
+                    <ul>
+                        <li>
+                            <a href="#">Đặt hàng mua<i class="fas fa-caret-right iconbar"></i></a>
+
+                            <div class="dropdown-menu-1">
+                                <ul>
+                                    <li><a href="@Url.Action("Index","Phieudathangmuas")">Phiếu đặt hàng mua</a></li>
+                                    <li><a href="@Url.Action("Index","Phieuthanhtoantienmuas")">Phiếu thanh toán</a></li>
+                                </ul>
+                            </div>
+                        </li>
+
+                        <li>
+                            <a href="#">Đặt hàng bán<i class="fas fa-caret-right iconbar"></i></a>
+
+                            <div class="dropdown-menu-1">
+                                <ul>
+                                    <li><a href="@Url.Action("Index","Phieudathangbans")">Phiếu đặt hàng bán</a></li>
+                                    <li><a href="@Url.Action("Index","Phieuthutienbans")">Phiếu thu tiền</a></li>
+                                </ul>
+                            </div>
+                        </li>
+
+                        <li><a href="@Url.Action("Indexxacnhan","Phieudathangmuas")">Xác nhận đặt hàng</a></li>
+
+                    </ul>
+                </div>
+            </li>
+
+            @*<li><a href="#">Báo Cáo</a></li>*@
+            @if (dvvc == null)
+            {
+                <li><a href="/login">Đăng nhập</a></li>
+
+            }
+            else
+            {
+                <li><a href="/Login/Logout">Đăng xuất</a></li>
+            }
+        </ul>
+    </div>
+
+    <div class="btn_backdiv">
+        <a href="@Url.Action("Capnhattrangthaidvvc","Phieudathangbans", new { Iddvvc = dvvc.Iddvvc })" class="btn_back">Quay lại</a>
+    </div>
+
+    <div class="table">
+        <div class="table_header">
+            <p>Chi tiết phiếu xuất</p>
+        </div>
+        <div class="table-section">
+            <table>
+                <thead>
+                    <tr>
+                        <th>
+                            Tên sách
+                        </th>
+@*                        <th>
+                            Số lượng đặt
+                        </th>*@
+                        <th>
+                            Số lượng giao
+                        </th>
+                        <th>
+                            Đơn giá bán
+                        </th>
+                        <th>
+                            Số p.đặt hàng bán
+                        </th>
+
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td style="text-align:left;">
+                                @Html.DisplayFor(modelItem => item.SachidsachNavigation.Tensach)
+                            </td>
+@*                            <td style="text-align:right;">
+                                @Html.DisplayFor(modelItem => item.Sldat)
+                            </td>*@
+                            <td style="text-align:right;">
+                                @if (item.Slgiao == null)
+                                {
+                                    @:0
+                                }
+                                else
+                                {
+                                    @Html.DisplayFor(modelItem => item.Slgiao)
+                                }
+                            </td>
+                            <td style="text-align:right;">
+                                @string.Format("{0:#,0}", @item.Dongiaban)VND
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.PhieudathangbanidpdhbNavigation.Sopdhb)
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+@*        <div class="pagetb">
+            @{
+                int PrevPage = ViewBag.Page - 1;
+                if (PrevPage <= 0)
+                {
+                    PrevPage = 1;
+                }
+                int NextPage = ViewBag.Page + 1;
+                if (NextPage > ViewBag.NoOfPages)
+                {
+                    NextPage = ViewBag.NoOfPages;
+                }
+            }
+
+            <ul class="pagenumber">
+                <li>
+                    <a href="/Chitietxuats/Index?page=@PrevPage">
+                        <
+                    </a>
+                </li>
+                @for (int i = 0; i < ViewBag.NoOfPages; i++)
+                {
+                    if (i + 1 == ViewBag.Page)
+                    {
+                        <li>
+                            <a href="/Chitietxuats/Index?page=@(i+1)">
+                                @(i + 1)
+                            </a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li>
+                            <a class="page-link" href="/Chitietxuats/Index?page=@(i+1)">
+                                @(i + 1)
+                            </a>
+                        </li>
+                    }
+
+                }
+                <li>
+                    <a href="/Chitietxuats/Index?page=@NextPage">
+                        >
+                    </a>
+                </li>
+            </ul>
+        </div>*@
+    </div>
+</body>
+
+</html>
+
+
+

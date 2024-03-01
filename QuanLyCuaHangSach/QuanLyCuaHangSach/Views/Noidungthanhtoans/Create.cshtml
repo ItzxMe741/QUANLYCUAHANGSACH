@@ -1,0 +1,64 @@
+﻿@model QuanLyCuaHangSach.Models.Noidungthanhtoan
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/create_form.cshtml";
+    Phieuthanhtoantienmua ptttm = TempData["phieuthanhtoantienmua"] as Phieuthanhtoantienmua;
+}
+
+<header><h2>Thêm Nội Dung Thanh Toán</h2></header>
+
+        <form asp-action="Create" class="form">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input value="@ptttm.Idptttm" name="Phieuthanhtoantienmuaidptttm" type="hidden" />
+            
+            
+            <div class="input-box">
+                <label class="control-label">Phiếu đặt hàng</label>
+                <div class="select-box">
+                    <select asp-for="Phieudathangmuaidpdhm" class="form-control" asp-items="ViewBag.Phieudathangmuaidpdhm"></select>
+                </div>
+                <span asp-validation-for="Phieudathangmuaidpdhm" class="text-danger"></span>
+            </div>
+
+            <div class="input-box">
+                <label class="control-label">Số tiền thanh toán</label>
+                <input asp-for="Sotienthanhtoan" class="form-control" oninput="formatCurrency(this)"/>
+                <span asp-validation-for="Sotienthanhtoan" class="text-danger"></span>
+            </div>
+
+             <script>
+                function formatCurrency(input) {
+                    var value = input.value.replace(/\D/g, '');
+                    var formatter = new Intl.NumberFormat('en-US');
+
+                    // Kiểm tra giá trị nhập vào
+                    if (value < 0) {
+                        // Xử lý lỗi tại đây, ví dụ: hiển thị thông báo lỗi
+                        alert("Giá nhập không hợp lệ. Vui lòng nhập lại!");
+                        input.value = ""; // Xóa giá trị nhập vào
+                    } else {
+                        input.value = formatter.format(value);
+                    }
+                }
+            </script>
+
+            <div>
+                <input type="submit" value="Lưu" class="btns" />
+            </div>
+            <hr />
+            <div class="btns" style="padding-top:15px">
+                <center>
+                    <a style="color:white; text-decoration:none;" href="@Url.Action("Index", "Noidungthanhtoans", new { Idptttm = ptttm.Idptttm })">Quay về</a>
+                </center>
+            </div>
+        </form>
+
+
+@*<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}*@

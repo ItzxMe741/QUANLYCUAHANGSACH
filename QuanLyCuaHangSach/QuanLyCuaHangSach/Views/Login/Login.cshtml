@@ -1,0 +1,79 @@
+﻿
+@{
+    ViewData["Title"] = "Đăng Nhập";
+    Layout = null;
+
+}
+
+<!DOCTYPE html>
+<!---Coding By CoderGirl | www.codinglabweb.com--->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Đăng Nhập</title>
+    <!---Custom CSS File--->
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <input type="checkbox" id="check">
+        <div class="login form">
+            <header>ĐĂNG NHẬP</header>
+            <form asp-controller="Login" asp-action="LoginUser" method="post">
+                <input type="text" placeholder="Nhập tên tài khoản..." name="Manhanvien">
+                <input type="password" placeholder="Nhập mật khẩu..." name="Password">
+                @*<a href="#">Forgot password?</a>*@
+                <input type="submit" class="button" value="Đăng nhập">
+            </form>
+            <div class="signup">
+                <span class="signup">
+                    Bạn Chưa có tài khoản?
+                    <label for="check"> Đăng kí</label>
+                </span>
+            </div>
+        </div>
+        <div class="registration form">
+            <header>ĐĂNG KÍ</header>
+            <form asp-controller="Login" asp-action="Create" method="post">
+                <input type="text" name="Email" placeholder="Nhập email...">
+                <input type="password" name="Password" placeholder="Nhập mật khẩu...">
+                <input type="password" placeholder="Nhập lại mật khẩu...">
+                <input type="submit" class="button" value="Đăng kí">
+            </form>
+            <div class="signup">
+                <span class="signup">
+                    Nếu bạn đã có tài khoản rồi?
+                    <label for="check"> Đăng nhập</label>
+                </span>
+            </div>
+        </div>
+    </div>
+    @if (@TempData["AlertMessage1"] != null)
+    {
+        <script>
+            swal({
+                type: 'success',
+                title: 'Success!',
+                text: '@TempData["AlertMessage1"]',
+                showCloseButton: true,
+                confirmButtonText: 'Close'
+            });
+        </script>
+    }
+
+    @if (@TempData["AlertMessagetk"] != null)
+    {
+        <script>
+            swal({
+                type: 'warning',
+                title: 'Not Found',
+                text: '@TempData["AlertMessagetk"]',
+                showCloseButton: true,
+                confirmButtonText: 'Close'
+            });
+        </script>
+    }
+</body>
+</html>

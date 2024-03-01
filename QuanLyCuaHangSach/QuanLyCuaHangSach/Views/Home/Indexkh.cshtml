@@ -1,0 +1,105 @@
+﻿@model IEnumerable<QuanLyCuaHangSach.Models.Donvivanchuyen>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = null;
+    QLCHSContext context = new QLCHSContext();
+    Khachhang kh = context.Khachhangs.Find(Int32.Parse(User.Identity.Name));
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUẢN LÝ</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <!--sweetalert-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css" rel="stylesheet" />
+    <!--sweetalert.end-->
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    @*<script src="~/js/xoa.js"></script>*@
+    <link rel="stylesheet" href="~/css/stylegd.css" />
+    <link rel="stylesheet" href="~/css/home.css" />
+
+</head>
+
+<body>
+
+    <div class="menu-bar">
+        <h1 class="logo"><img src="~/img/icon.png" width="150px" style="margin-top:10px; margin-left:100px;" /></h1>
+        <ul>
+            @*<li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>*@
+
+            @if (kh == null)
+            {
+                <li><a href="/login">Đăng nhập</a></li>
+
+            }
+            else
+            {
+                <li><a href="/Login/Logout">Đăng xuất</a></li>
+            }
+
+        </ul>
+    </div>
+    <div>
+        <a></a>
+        <p style="font-size: 22px;" class="timejs" id="clock"></p>
+    </div>
+     
+    
+
+    <section class="home-content">
+        <div class="texts">
+            <h2 class="text">Customize Your Website </h2>
+            <h3 class="text">With a <span>Beautiful Colours...</span></h3>
+            <p>Lorem ipsum dolor sited and ametvel, nobised, minimali! Quibusdam temporibus, placeate reessed veritatis optio aliquam illum debitis at, perspiciatis consequatur iure vel, quae ratione. Praesentium, at.</p>
+            <div class="button">
+                <a href="#">
+                    Explore Me
+                    <i class="fas fa-location-arrow"></i>
+                </a>
+            </div>
+           </div>
+    </section>
+
+    @if (@TempData["AlertMessage1"] != null)
+    {
+        <script>
+            swal({
+                type: 'success',
+                title: 'Success!',
+                text: '@TempData["AlertMessage1"]',
+                showCloseButton: true,
+                confirmButtonText: 'Close'
+            });
+        </script>
+    }
+
+    @if (@TempData["AlertMessagetk"] != null)
+    {
+        <script>
+            swal({
+                type: 'warning',
+                title: 'Not Found',
+                text: '@TempData["AlertMessagetk"]',
+                showCloseButton: true,
+                confirmButtonText: 'Close'
+            });
+        </script>
+    }
+</body>
+</html>
+
+@*<p>
+    <a asp-action="Create">Create New</a>
+</p>*@
+

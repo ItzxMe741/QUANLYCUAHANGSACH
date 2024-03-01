@@ -1,0 +1,36 @@
+﻿@model QuanLyCuaHangSach.Models.Noidungthutien
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Noidungthutien</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Sotienthu)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Sotienthu)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PhieudathangbanidpdhbNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PhieudathangbanidpdhbNavigation.Idpdhb)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PhieuthutienbanidpttbNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PhieuthutienbanidpttbNavigation.Idpttb)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Idndthu">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

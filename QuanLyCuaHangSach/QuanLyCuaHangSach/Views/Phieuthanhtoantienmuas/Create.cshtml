@@ -1,0 +1,53 @@
+﻿@model QuanLyCuaHangSach.Models.Phieuthanhtoantienmua
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/create_form.cshtml";
+}
+
+<header><h2>Thêm Phiếu Thanh Toán</h2></header>
+        <form asp-action="Create" class="form">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @{
+                var idset = ViewData["id"];
+            }
+
+            <div class="input-box">
+                <label class="control-label">Số phiếu thanh toán</label>
+                <input asp-for="Soptttm" class="form-control" value="@idset" readonly/>
+                <span asp-validation-for="Soptttm" class="text-danger"></span>
+            </div>
+            <div class="input-box">
+                <label class="control-label">Ngày thanh toán</label>
+                <input asp-for="Ngaythanhtoan" class="form-control" type="date"/>
+                <span asp-validation-for="Ngaythanhtoan" class="text-danger"></span>
+            </div>
+            <div class="input-box">
+                <label class="control-label">Hình thức thanh toán</label>
+                <div class="select-box">
+                    <select asp-for="Htttidhttt" class ="form-control" asp-items="ViewBag.Htttidhttt"></select>
+                </div>
+            </div>
+            <div class="input-box">
+                <label class="control-label">Nhân viên phụ trách</label>
+                <div class="select-box">
+                    <select asp-for="Nhanvienidnhanvien" class ="form-control" asp-items="ViewBag.Nhanvienidnhanvien"></select>
+                </div>
+            </div>
+            <<div>
+                <input type="submit" value="Lưu" class="btns" />
+            </div>
+            <hr />
+            <div class="btns" style="padding-top:15px">
+                <center><a asp-action="Index" style="color:white; text-decoration:none;">Quay về</a></center>
+            </div>
+        </form>
+
+@*<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+*@

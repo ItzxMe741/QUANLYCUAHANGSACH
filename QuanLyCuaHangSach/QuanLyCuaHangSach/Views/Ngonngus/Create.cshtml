@@ -1,0 +1,23 @@
+﻿@model QuanLyCuaHangSach.Models.Ngonngu
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/create_form.cshtml";
+}
+
+<header><h2>Thêm Ngôn Ngữ</h2></header>
+
+        <form asp-action="Create" class="form">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="input-box">
+                <label class="control-label">Tên ngôn ngữ</label>
+                <input asp-for="Tenngongu" class="form-control" />
+                <span asp-validation-for="Tenngongu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Lưu" class="btns" />
+            </div>
+            <div class="btns" style="padding-top:15px">
+                <center><a asp-action="Index" style="color:white; text-decoration:none;">Quay về</a></center>
+            </div>
+        </form>
